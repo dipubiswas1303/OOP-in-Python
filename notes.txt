@@ -1,2 +1,8 @@
-OOP
+Previous note added letter
 
+
+
+Function: is independed that is not inside a class and can be access by all.
+Method: is a special type of function that inside a class and only access by the class
+
+#Function — a set of instructions that perform a task. Method — a set of instructions that are associated with an object.
