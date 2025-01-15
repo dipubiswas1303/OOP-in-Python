@@ -2,7 +2,18 @@ Previous note added letter
 
 
 
-Function: is independed that is not inside a class and can be access by all.
-Method: is a special type of function that inside a class and only access by the class
+Function: is independed that is not inside a class and can be access by all. Exmple: len(list)
+Method: is a special type of function that inside a class and only access by the class. Example: list.append(2)
 
 #Function — a set of instructions that perform a task. Method — a set of instructions that are associated with an object.
+
+
+Constructor: In Python, a constructor is a special method that is called automatically when an object is created from a class. Its main role is to initialize the object by setting up its attributes or state.
+
+Example:
+    class ClassName:
+        def __init__(self, parameters):
+            self.attribute = value  
+
+Magic Method: the method that autometically called
+example: __name__()
